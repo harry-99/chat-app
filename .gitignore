@@ -1,5 +1,2 @@
-client/chatapp/node_modules
-server/node_modules
-
-# misc
-client/chatapp/.DS_Store
+*/node_modules
+*/.DS_Store
